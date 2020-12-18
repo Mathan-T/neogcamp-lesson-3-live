@@ -1,19 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic:wght@400;700&display=swap');
+
 body {
-    color: red;
-}
-
-h1 {
-    color: blue;
-}
-
-h2 {
-    color: green;
-}
-
-#Mathan-lib {
-    color: gray;
-}
-
-.para {
-    color: pink;
+    font-family: 'Andika New Basic', sans-serif;
 }
